@@ -1,0 +1,21 @@
+# ML Task 2: AAPL Stock Price Prediction
+
+## Task Objective
+Predict Apple Inc. (AAPL) stock closing prices using machine learning models on historical data from Yahoo Finance.
+
+## Dataset Used
+- **Source**: Yahoo Finance via `yfinance`
+- **Ticker**: AAPL
+- **Features**: Open, High, Low, Close, Volume
+
+## Models Applied
+- Linear Regression
+
+## Key Results
+- **MAE**: [13.35]
+- **RMSE**: [19.60]
+- Model captures the overall trend of AAPL stock prices.
+
+## How to Run
+1. Open `AAPL_STOCK_Prediction_Asad.ipynb` 
+2. Run all cells
